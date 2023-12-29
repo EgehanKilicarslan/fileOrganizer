@@ -1,0 +1,14 @@
+file_types:
+  Videos: [".mp4", ".mkv", ".avi", ".mov", ".flv", ".wmv", ".webm"]
+  Audios: [".mp3", ".wav", ".ogg", ".m4a", ".flac", ".aiff", ".wma"]
+  Images: [".jpg", ".jpeg", ".png", ".gif", ".tiff", ".psd", ".bmp", ".ico"]
+  Documents: [".doc", ".docx", ".pdf", ".txt", ".ppt", ".pptx", ".xls", ".xlsx", ".csv"]
+  Compressed: [".zip", ".rar", ".tar", ".iso", ".gz"]
+  Executable: [".exe", ".msi"]
+  Programming: [".py", ".java", ".c", ".cpp", ".h", ".html", ".css", ".js", ".php", ".xml"]
+
+
+path:
+  - "/home/egehan/Documents/automation/fileOrangizer/test1"
+  - "/home/egehan/Documents/automation/fileOrangizer/test2"
+  - "/home/egehan/Documents/automation/fileOrangizer/test3"
